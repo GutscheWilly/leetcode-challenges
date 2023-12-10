@@ -2,7 +2,7 @@
 
 <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" width=320 height=200>
 
-<h3>🧑‍💻 Acesse meu perfil: <a href="https://leetcode.com/Gutsche/">Click aqui</a></h3>
+<h3>🧑‍💻 Acesse meu perfil: <a href="https://leetcode.com/Gutsche/">Click Aqui</a></h3>
 
 Este repositório contém as minhas soluções para desafios da plataforma LeetCode, organizadas por níveis de dificuldade: 
 
