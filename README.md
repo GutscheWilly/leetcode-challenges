@@ -1,8 +1,8 @@
-<h1>LeetCode Challenge Solutions</h1>
-
-<img src="https://leetcode.com/static/images/LeetCode_Sharing.png" width=320 height=200>
-
-<h3>🧑‍💻 Acesse meu perfil: <a href="https://leetcode.com/Gutsche/">Click Aqui</a></h3>
+<div align="center">
+  <h1>LeetCode Challenges</h1>
+  <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" width=320 height=200>
+  <h3>🧑‍💻 Acesse meu perfil: <a href="https://leetcode.com/Gutsche/">Click Aqui!</a></h3>
+</div>
 
 Este repositório contém as minhas soluções para desafios da plataforma LeetCode, organizadas por níveis de dificuldade: 
 
